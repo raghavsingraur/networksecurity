@@ -1,3 +1,8 @@
 python-dotenv
 pandas
 numpy
+pymongo
+Certifi
+
+
+##-e .  ## referring to setup.py file
