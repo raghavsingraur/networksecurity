@@ -4,7 +4,6 @@ numpy
 pymongo
 Certifi
 pymongo[srv]==3.12
-pymongo
 
 
 ##-e .  ## referring to setup.py file
